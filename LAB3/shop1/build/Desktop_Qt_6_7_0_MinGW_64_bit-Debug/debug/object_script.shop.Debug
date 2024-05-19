@@ -1,0 +1,11 @@
+debug/main.o
+debug/MainWindow.o
+debug/Product.o
+debug/Phone.o
+debug/Laptop.o
+debug/Headphones.o
+debug/TV.o
+debug/Scooter.o
+debug/ShoppingCart.o
+debug/qrc_qmake_qmake_qm_files.o
+debug/moc_MainWindow.o

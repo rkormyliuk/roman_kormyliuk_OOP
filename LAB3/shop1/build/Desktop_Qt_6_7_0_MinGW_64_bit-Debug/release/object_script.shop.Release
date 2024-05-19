@@ -1,0 +1,11 @@
+release/main.o
+release/MainWindow.o
+release/Product.o
+release/Phone.o
+release/Laptop.o
+release/Headphones.o
+release/TV.o
+release/Scooter.o
+release/ShoppingCart.o
+release/qrc_qmake_qmake_qm_files.o
+release/moc_MainWindow.o
